@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomationSeleniumC#", "AutomationSeleniumC#\AutomationSeleniumC#.csproj", "{CADB392D-C99A-4F35-8E1C-E14126655E25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "driver", "driver", "{B1D1A29B-83A3-4B20-BD95-754FFBF679D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADB392D-C99A-4F35-8E1C-E14126655E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADB392D-C99A-4F35-8E1C-E14126655E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADB392D-C99A-4F35-8E1C-E14126655E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADB392D-C99A-4F35-8E1C-E14126655E25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85430879-6D41-4B30-9C8A-05DA1690BCE3}
+	EndGlobalSection
+EndGlobal
